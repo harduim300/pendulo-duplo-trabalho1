@@ -15,4 +15,5 @@ $$
 {\omega i}_{1}={\omega i}_{2}= 0 \space rad/s,
 \space \Delta t = 0,01s
 $$
+![Alt text](/img/Figure_1.png?raw=true "Optional Title")
 ​	Obtevemos os seguintes gráficos:
