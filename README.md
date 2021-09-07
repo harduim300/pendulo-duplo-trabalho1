@@ -12,16 +12,16 @@
 
 ​	Obtevemos os seguintes gráficos:
 <div>
-  <img src="https://raw.githubusercontent.com/harduim300/pendulo-duplo-trabalho1/main/img/Figure_1.png" width="450px" height="450px" alt="Figura1"/>
-  <img src="https://raw.githubusercontent.com/harduim300/pendulo-duplo-trabalho1/main/img/Figure_2.png" width="450px" height="450px" alt="Figura2"/>
+  <img src="https://raw.githubusercontent.com/harduim300/pendulo-duplo-trabalho1/main/img/Figure_1.png" width="400px" height="400px" alt="Figura1"/>
+  <img src="https://raw.githubusercontent.com/harduim300/pendulo-duplo-trabalho1/main/img/Figure_2.png" width="400px" height="400px" alt="Figura2"/>
 </div>
 <div>
-  <img src="https://raw.githubusercontent.com/harduim300/pendulo-duplo-trabalho1/main/img/Figure_3.png" width="450px" height="450px" alt="Figura3"/>
-  <img src="https://raw.githubusercontent.com/harduim300/pendulo-duplo-trabalho1/main/img/Figure_4.png" width="450px" height="450px" alt="Figura4"/>
+  <img src="https://raw.githubusercontent.com/harduim300/pendulo-duplo-trabalho1/main/img/Figure_3.png" width="400px" height="400px" alt="Figura3"/>
+  <img src="https://raw.githubusercontent.com/harduim300/pendulo-duplo-trabalho1/main/img/Figure_4.png" width="400px" height="400px" alt="Figura4"/>
 </div>
 <div>
-  <img src="https://raw.githubusercontent.com/harduim300/pendulo-duplo-trabalho1/main/img/Figure_5.png" width="450px" height="450px" alt="Figura5"/>
-  <img src="https://raw.githubusercontent.com/harduim300/pendulo-duplo-trabalho1/main/img/Figure_6.png" width="450px" height="450px" alt="Figura6"/>
+  <img src="https://raw.githubusercontent.com/harduim300/pendulo-duplo-trabalho1/main/img/Figure_5.png" width="400px" height="400px" alt="Figura5"/>
+  <img src="https://raw.githubusercontent.com/harduim300/pendulo-duplo-trabalho1/main/img/Figure_6.png" width="400px" height="400px" alt="Figura6"/>
 </div>
 
 ### Aluno: Matheus da Costa Harduim
