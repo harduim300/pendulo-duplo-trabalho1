@@ -8,7 +8,7 @@
 
 ​	Após iniciados esses valores se quisermos, por exemplo, expressar todos os valores das variáveis por meio de uma tabela, basta descomentarmos as linhas que se referem a *Pretty Table* no arquivo **metodoKutta.py**, ou seja, devemos descomentar as linhas **5,23,27,52,56**. Caso queriamos apenas os graficos basta executarmos o programa pelo **main.py**.  Na versão padrão do programa, ou seja, assumindo os valores:
 
-<img src="https://latex.codecogs.com/svg.image?\hspace{-0.6cm}{L}_{1}={L}_{2}=1&space;m&space;\newline{m}_{1}={m}_{2}=1\space&space;kg\newline{\theta}_{1}=&space;30^{\circ},{\theta}_{2}=&space;0^{\circ}\newline{\omega}_{1}={\omega&space;i}_{2}=&space;0&space;rad/s\newline\Delta&space;t&space;=&space;0,01s" title="\hspace{-0.6cm}{L}_{1}={L}_{2}=1 m \newline{m}_{1}={m}_{2}=1\space kg\newline{\theta}_{1}= 30^{\circ},{\theta}_{2}= 0^{\circ}\newline{\omega}_{1}={\omega i}_{2}= 0 rad/s\newline\Delta t = 0,01s" />
+<img src="https://latex.codecogs.com/svg.image?\hspace{-0.6cm}{L}_{1}={L}_{2}=1&space;m&space;\newline{m}_{1}={m}_{2}=1\space&space;kg\newline{\theta}_{1}=&space;30^{\circ},{\theta}_{2}=&space;0^{\circ}\newline{\omega}_{1}={\omega&space;}_{2}=&space;0&space;rad/s\newline\Delta&space;t&space;=&space;0,01s" title="\hspace{-0.6cm}{L}_{1}={L}_{2}=1 m \newline{m}_{1}={m}_{2}=1\space kg\newline{\theta}_{1}= 30^{\circ},{\theta}_{2}= 0^{\circ}\newline{\omega}_{1}={\omega}_{2}= 0 rad/s\newline\Delta t = 0,01s" />
 
 ​	Obtevemos os seguintes gráficos:
 <div>
